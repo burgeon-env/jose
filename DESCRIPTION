@@ -13,7 +13,6 @@ License: MIT + file LICENSE
 URL: https://datatracker.ietf.org/wg/jose/documents/
     https://www.w3.org/TR/WebCryptoAPI/#jose
     https://github.com/jeroen/jose
-    https://github.com/burgeon-env/jose
 BugReports: https://github.com/jeroen/jose/issues
 Depends: openssl (>= 1.2.1)
 Imports: jsonlite
@@ -22,7 +21,6 @@ VignetteBuilder: knitr
 Suggests:
     knitr,
     markdown,
-    qpdf,
     rmarkdown,
     spelling,
     testthat
